@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ea3a5ed812d87bb4081bd9aea1c6b58a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - B Badr
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 22fd0d44ef8c1a54887eb89f52f9a15d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

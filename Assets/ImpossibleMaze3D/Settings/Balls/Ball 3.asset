@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b50be5554f81df64aa6183f8d3ed6e31, type: 3}
+  m_Name: Ball 3
+  m_EditorClassIdentifier: 
+  _BallName: GucciBall
+  _BallDisplayName: "\u062A\u0648\u067E \u062E\u0648\u0634\u0628\u062E\u062A\u06CC"
+  _BallPrefab: {fileID: 3491398752990782857, guid: 9916e24ef18a69a48b30057ebe57c541, type: 3}
+  _BallPhysics: {fileID: 13400000, guid: 71ea57b4c351ff44bb8e6d1bd95265b3, type: 2}
+  _Weight: 25
+  _Diameter: 0.75

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf61572c36fc7d4bb27aab442d0320d, type: 3}
+  m_Name: Coin500
+  m_EditorClassIdentifier: 
+  _ItemName: "\u0628\u0633\u062A\u0647 500 \u0639\u062F\u062F\u06CC \u0633\u06A9\u0647"
+  _ItemSKUID: SKU_IM_COIN_500
+  _itemPrice: 20000
+  _ItemChargeAmount: 500
+  _ItemInfo: {fileID: 11400000, guid: d806477ba964c2e4ea31bdbfa30e1e7a, type: 2}
+  isToman: 1
+  IsTousandSeprated: 1

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b50be5554f81df64aa6183f8d3ed6e31, type: 3}
+  m_Name: Ball 10
+  m_EditorClassIdentifier: 
+  _BallName: RugbyBall
+  _BallDisplayName: "\u062A\u0648\u067E \u0631\u0627\u06AF\u0628\u06CC"
+  _BallPrefab: {fileID: 2259443513796059147, guid: ec8e6ce0523e5a24695f08b6f1628078, type: 3}
+  _BallPhysics: {fileID: 13400000, guid: 8c7ebf75fc30c0749b738dc8cf56741f, type: 2}
+  _Weight: 4
+  _Diameter: 0.94
