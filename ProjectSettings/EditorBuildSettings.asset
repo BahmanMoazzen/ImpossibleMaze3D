@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Bazaar/Poolakey/Demo/DemoScene.unity
+    guid: d9bfe3e3ee0154e4b96b5f3fa4449460
+  - enabled: 1
     path: Assets/ImpossibleMaze3D/Scenes/LoadingScene.unity
     guid: 1e5ad343e1533e5459aa6b6ca1d474f6
   - enabled: 1

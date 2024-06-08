@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ShopItem : MonoBehaviour
+public class MyShopItem : MonoBehaviour
 {
     public delegate void mouseClicked(string iSKUID);
     public static event mouseClicked OnMouseClicked;

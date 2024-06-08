@@ -122,14 +122,14 @@ public class ShopManager : MonoBehaviour
         foreach (var item in _ShopSetting._AllShopItems)
         {
             GameObject go = Instantiate(_ShopItemTemplate, _ShopItemParent);
-            go.GetComponent<ShopItem>().ItemInfo = item;
+            go.GetComponent<MyShopItem>().ItemInfo = item;
         }
         _HideShop();
         yield return 0;
     }
     void OnEnable()
     {
-        ShopItem.OnMouseClicked += StartPurchase;
+        MyShopItem.OnMouseClicked += StartPurchase;
         
     }
 
@@ -143,7 +143,7 @@ public class ShopManager : MonoBehaviour
 
     void OnDisable()
     {
-        ShopItem.OnMouseClicked -= StartPurchase;
+        MyShopItem.OnMouseClicked -= StartPurchase;
     }
 
     #endregion
